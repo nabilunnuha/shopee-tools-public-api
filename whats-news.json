@@ -1,0 +1,167 @@
+[
+    {
+      "version": "1.0.1",
+      "changes": ["Release"]
+    },
+    {
+      "version": "1.0.2",
+      "changes": [
+        "Add browser proxy",
+        "Add imap login email",
+        "Add proxy browser",
+        "Fix verifikasi otomatis"
+      ]
+    },
+    {
+      "version": "1.0.4",
+      "changes": [
+        "Fix error cookie",
+        "Fix open & close Launch browser"
+      ]
+    },
+    {
+      "version": "1.0.5",
+      "changes": [
+        "Memperbaiki tampilan",
+        "Merubah struktur lisensi",
+        "Add license di setting"
+      ]
+    },
+    {
+      "version": "1.0.6",
+      "changes": [
+        "Fix error saat run"
+      ]
+    },
+    {
+      "version": "1.0.7",
+      "changes": [
+        "Mengubah sedikit tampilan",
+        "Fix eror save cookie manual",
+        "Add fitur Auto online"
+      ]
+    },
+    {
+      "version": "1.0.8",
+      "changes": [
+        "Fix eror thread browser auto online"
+      ]
+    },
+    {
+      "version": "1.0.9",
+      "changes": [
+        "Fix browser error login, verifikasi otomatis, save cookie",
+        "Add costum directory cookie di setting",
+        "Add fitur dark mode"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "changes": [
+        "Fix thread error"
+      ]
+    },
+    {
+      "version": "1.1.2",
+      "changes": [
+        "Fix tanggal delete error",
+        "Fix messagebot error"
+      ]
+    },
+    {
+      "version": "1.1.3",
+      "changes": [
+        "Fix cache",
+        "New auto updater"
+      ]
+    },
+    {
+      "version": "1.1.6",
+      "changes": [
+        "Fix error run tools",
+        "fix menyimpan info login"
+      ]
+    },
+    {
+      "version": "1.1.7",
+      "changes": [
+        "Fix detected malware"
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "changes": [
+        "Fix error openbrowser",
+        "Add end point url openbrowser",
+        "Fix log",
+        "Add detail delete produk di blokir in log directory"
+      ]
+    },
+    {
+      "version": "1.2.2",
+      "changes": [
+        "Add email tool",
+        "Fix error logger"
+      ]
+    },
+    {
+      "version": "1.2.4",
+      "changes": [
+        "Fix error browser Chat bot",
+        "Fix error logger"
+      ]
+    },
+    {
+      "version": "1.2.5",
+      "changes": [
+        "Memperbarui tampilan"
+      ]
+    },
+    {
+      "version": "1.2.8",
+      "changes": [
+        "Fix auto updater",
+        "Add auto update main updater",
+        "Fix cookie request error"
+      ]
+    },
+    {
+      "version": "1.2.9",
+      "changes": [
+        "Add timeout request 1m"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "changes": [
+        "Add feature clean cache and temporary",
+        "Add cookie manual",
+        "Fix delete error"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "changes": [
+        "Fix cookie error",
+        "Fix webdriver stuck"
+      ]
+    },
+    {
+      "version": "1.3.4",
+      "changes": [
+        "Add request mode in Setting",
+        "Fix error checkbot",
+        "Fix get product update ( up product, archive, delete )"
+      ]
+    },
+    {
+      "version": "1.3.6",
+      "changes": [
+        "Fix imap",
+        "Fix error save cookie",
+        "Update main",
+        "Auto update driver",
+        "Fix stuck browser"
+      ]
+    }
+  ]
