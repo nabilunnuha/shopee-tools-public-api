@@ -180,9 +180,10 @@
 		]
 	},
 	{
-		"version": "1.3.9",
+		"version": "1.4.0",
 		"changes": [
-			"Fix pharse datetime error"
+			"Fix pharse datetime error",
+			"Add ignore error in cookie manual",
 		]
 	}
 ]
