@@ -185,5 +185,12 @@
 			"Fix pharse datetime error",
 			"Add ignore error in cookie manual"
 		]
+	},
+	{
+		"version": "1.4.1",
+		"changes": [
+			"Fix auto verifikasi error",
+			"Fix browser error"
+		]
 	}
 ]
