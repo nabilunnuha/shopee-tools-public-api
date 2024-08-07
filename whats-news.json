@@ -192,5 +192,13 @@
 			"Fix auto verifikasi error",
 			"Fix webdriver error"
 		]
+	},
+	{
+		"version": "1.4.3",
+		"changes": [
+			"Fix driver download berulang",
+			"Fix account history tidak muncul",
+			"Fix click button verifikasi"
+		]
 	}
 ]
