@@ -198,7 +198,8 @@
 		"changes": [
 			"Fix driver download berulang",
 			"Fix account history tidak muncul",
-			"Fix click button verifikasi"
+			"Fix click button verifikasi",
+			"Fix add cookie error"
 		]
 	}
 ]
