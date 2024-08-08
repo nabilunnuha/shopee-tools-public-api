@@ -201,5 +201,12 @@
 			"Fix click button verifikasi",
 			"Fix add cookie error"
 		]
+	},
+	{
+		"version": "1.4.4",
+		"changes": [
+			"Sedikit perubahan pada email tools",
+			"Fix verifikasi shopee update"
+		]
 	}
 ]
