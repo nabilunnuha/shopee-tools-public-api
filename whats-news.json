@@ -203,10 +203,11 @@
 		]
 	},
 	{
-		"version": "1.4.4",
+		"version": "1.4.5",
 		"changes": [
 			"Sedikit perubahan pada email tools",
-			"Fix verifikasi shopee update"
+			"Fix verifikasi shopee update",
+			"Sedikit perubahan logging"
 		]
 	}
 ]
