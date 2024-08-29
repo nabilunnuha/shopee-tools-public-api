@@ -216,5 +216,11 @@
 			"Fix check order",
 			"Sedikit perubahan logging dan log path name"
 		]
+	},
+	{
+		"version": "1.4.9",
+		"changes": [
+			"Add message filter in Email Tools"
+		]
 	}
 ]
