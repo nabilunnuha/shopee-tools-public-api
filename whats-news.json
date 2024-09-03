@@ -222,5 +222,11 @@
 		"changes": [
 			"Add message filter in Email Tools"
 		]
+	},
+	{
+		"version": "1.5.0",
+		"changes": [
+			"Fix Launch, browser tidak muncul"
+		]
 	}
 ]
