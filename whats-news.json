@@ -108,7 +108,7 @@
 	},
 	{
 		"version": "1.2. 4",
-		"changes ": [
+		"changes": [
 			"Fix browser Chat bot error",
 			"Fix error logger"
 		]
@@ -188,7 +188,7 @@
 	},
 	{
 		"version": "1.4.2",
-		"changes ": [
+		"changes": [
 			"Fix auto verify error",
 			"Fix webdriver error"
 		]
@@ -211,7 +211,7 @@
 	},
 	{
 		"version": "1.4.8",
-		"changes ": [
+		"changes": [
 			"Fix pagination and email tool launch",
 			"Fix order check",
 			"Some changes to logging and logging path name"
@@ -231,7 +231,7 @@
 	},
 	{
 		"version": "1.5.1",
-		"changes ": [
+		"changes": [
 			"Some updates to appearance",
 			"Change database file format",
 			"Add regex to keyword mode",
