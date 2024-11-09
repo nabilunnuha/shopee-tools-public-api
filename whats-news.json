@@ -238,5 +238,11 @@
 			"Fix check order",
 			"Improvements to auto online tools, product archives, and vouchers"
 		]
+	},
+	{
+		"version": "1.5.2",
+		"changes": [
+			"Fix cookies"
+		]
 	}
 ]
