@@ -240,9 +240,10 @@
 		]
 	},
 	{
-		"version": "1.5.2",
+		"version": "1.5.3",
 		"changes": [
-			"Fix cookies"
+			"Fix cookies",
+			"Fix open email message error"
 		]
 	}
 ]
