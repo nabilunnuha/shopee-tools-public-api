@@ -245,5 +245,11 @@
 			"Fix cookies",
 			"Fix open email message error"
 		]
+	},
+	{
+		"version": "1.5.4",
+		"changes": [
+			"Fix checkbot"
+		]
 	}
 ]
